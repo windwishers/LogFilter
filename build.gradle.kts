@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "fail.toepic"
-version = "1.0-SNAPSHOT"
+version = "1.9.1-SNAPSHOT"
 
 repositories {
     mavenCentral()
