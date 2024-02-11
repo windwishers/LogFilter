@@ -13,7 +13,7 @@ public class ClassTaster
         {
             Method      method      = null;
 
-            //Å×½ºÆ® °ªÀ» ¹ÞÀº°æ¿ì
+            //ï¿½×½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
             if ( params.length > 0 )
             {
                 method = getMethod( cls, strMethod );
