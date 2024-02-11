@@ -9,3 +9,8 @@
 misc.xml
 modules.xml
 vcs.xml
+compiler.xml
+gradle.xml
+jarRepositories.xml
+kotlinc.xml
+.name
